@@ -105,6 +105,10 @@ Aurel is meant to be easy to improve without paid services. Good contribution ar
 
 Core analysis must stay free to run. Do not add mandatory hosted AI, paid APIs, or secrets. Optional integrations should be disabled by default and clearly documented.
 
+## Community Standards
+
+Please follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) in issues, pull requests, reviews, and discussions. Keep feedback specific, respectful, and focused on making the project easier for beginners and maintainers.
+
 ## Commit Style
 
 Use short, clear commit messages:

@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an improvement for Arminium
+about: Suggest an improvement for Aurel
 title: "feat: "
 labels: enhancement
 assignees: ""

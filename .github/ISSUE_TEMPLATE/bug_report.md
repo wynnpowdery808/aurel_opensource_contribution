@@ -22,4 +22,4 @@ Describe the expected behavior.
 
 - Python version:
 - Operating system:
-- Arminium version:
+- Aurel version:

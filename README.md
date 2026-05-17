@@ -378,6 +378,8 @@ See [ROADMAP.md](ROADMAP.md) for the fuller staged plan.
 
 Contributions are welcome. Start with [CONTRIBUTING.md](CONTRIBUTING.md) for local setup, testing, automated checks, and commit style. The repository CI runs tests, linting, type checks, package validation, and security checks on branch pushes and pull requests.
 
+Please also follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) when participating in issues, pull requests, reviews, and discussions.
+
 ## License
 
 Aurel is released under the MIT License. See [LICENSE](LICENSE).
