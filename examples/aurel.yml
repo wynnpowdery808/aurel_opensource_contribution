@@ -1,0 +1,46 @@
+project_type: python
+audience: students
+preset: classroom
+scoring:
+  readme: 30
+  license: 15
+  contributing: 25
+  security: 15
+  code_of_conduct: 15
+checks:
+  readme_paths:
+    - README.md
+    - README.rst
+    - docs/index.md
+  license_paths:
+    - LICENSE
+    - LICENSE.md
+    - COPYING
+  contributing_paths:
+    - CONTRIBUTING.md
+    - docs/contributing.md
+  security_paths:
+    - SECURITY.md
+    - .github/SECURITY.md
+  code_of_conduct_paths:
+    - CODE_OF_CONDUCT.md
+    - .github/CODE_OF_CONDUCT.md
+  require_readme: true
+  require_license: true
+  require_contributing: true
+  require_security: true
+  require_code_of_conduct: true
+  beginner_labels:
+    - good first issue
+    - help wanted
+    - first-timers-only
+  required_commands:
+    - install
+    - run
+    - test
+  command_checks:
+    - install
+    - run
+    - test
+    - lint
+    - build
