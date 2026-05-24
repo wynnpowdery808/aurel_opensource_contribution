@@ -1,3 +1,0 @@
-fail-on-severity: high
-comment-summary-in-pr: always
-warn-only: false
